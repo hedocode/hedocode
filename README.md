@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 -  :fr: I'm a French developer
+- 🧑‍💼 CEO of [Sacercode](https://github.com/Sacercode)
 - 🖼 My not-dev / artist nickname is [Arilox](https://www.instagram.com/darilox/)
 - ⌚ I’m currently :
   - 🔭 Working on a full JavaScript stack using [Fastify](https://www.fastify.io/) to improve my development skills and workflow
